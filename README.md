@@ -33,14 +33,14 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shved14&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shved14&theme=tokyonight" height="150"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shved14&layout=compact&theme=tokyonight" height="150"/>
 
 </p>
 
@@ -49,7 +49,7 @@
 ## 🐍 Snake активности
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/Shved14/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
