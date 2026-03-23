@@ -49,7 +49,7 @@
 ## 🐍 Snake активности
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/Shved14/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Shved14/Shved14/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
